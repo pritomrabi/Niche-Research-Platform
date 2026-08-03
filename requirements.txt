@@ -1,0 +1,12 @@
+Django==6.0.7
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+django-celery-beat
+celery[redis]
+praw
+google-genai
+python-dotenv
+dj-database-url
+pydantic
+tenacity
+psycopg[binary]
